@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51107" started-at="2019-06-05T19:49:06 CDT" finished-at="2019-06-05T19:49:57 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51107" started-at="2019-06-05T19:49:06 CDT" finished-at="2019-06-05T19:49:57 CDT">
+      <class name="Costco.qa.TC1">
+        <test-method status="PASS" signature="testSignIn_Out()[pri:0, instance:Costco.qa.TC1@5ce81285]" name="testSignIn_Out" duration-ms="51037" started-at="2019-06-05T19:49:06 CDT" finished-at="2019-06-05T19:49:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignIn_Out -->
+      </class> <!-- Costco.qa.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
